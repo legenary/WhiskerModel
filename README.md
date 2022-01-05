@@ -10,8 +10,9 @@ For more information or feedback contact nzweifel@u.northwestern.edu and yifuluo
 </p>
 
 As a side project, this model could also be used to simulate whisking behavior (with head movements), without precise tracking of single whisker protraction. This was used for corectly simualte the mechanical properties in the behavior.
-<img src="docs/30fps_top_rathead.gif">
-<img src="docs/30fps_top_whisker.gif">
+
+<img src="docs/30fps_top_rathead.gif" height="300px" width="400px">    <img src="docs/30fps_top_whisker.gif" height="300px" width="400px">
+
 
 
 ## Installation Instructions:
