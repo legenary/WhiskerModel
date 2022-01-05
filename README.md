@@ -9,6 +9,9 @@ For more information or feedback contact nzweifel@u.northwestern.edu and yifuluo
 	<img src="docs/whiskit_active_peg.gif">
 </p>
 
+As a side project, this model could also be used to simulate whisking behavior (with head movements), without precise tracking of single whisker protraction. 
+
+
 ## Installation Instructions:
 1. Install OpenGL/Glut with `sudo apt-get install freeglut3-dev`
 
