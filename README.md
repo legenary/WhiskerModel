@@ -7,8 +7,6 @@ WHISKiT Physics, developed by the SeNSE (Hartmann) Lab at Northwestern Universit
 	<img src="docs/whiskit_active_peg.gif">
 </p>
 
-For more information or feedback contact nzweifel@u.northwestern.edu
-
 ## Installation Instructions:
 1. Install OpenGL/Glut with `sudo apt-get install freeglut3-dev`
 
